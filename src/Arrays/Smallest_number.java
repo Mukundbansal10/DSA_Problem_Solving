@@ -12,6 +12,7 @@ public class Smallest_number {
     }
     public static int solution(int N){
         String ans = "";
+//        dividing N value again and again , on succesfull division the divisior is concatenated to the String
         for (int i = 9; i >2; i--) {
             while (N%i==0){
                 N = N/i;
