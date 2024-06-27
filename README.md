@@ -10,6 +10,7 @@ Welcome to the repository for the **DSA Problem Solving for Interviews using Jav
 **Course Title**: DSA Problem Solving for Interviews using Java  
 **Instructor**: Jitender Punia, Software Engineer and Instructor at Scaler
 
+
 This course provides a comprehensive guide to solving DSA problems in Java, aimed at helping students and professionals prepare for technical interviews.
 
 ## Repository Structure
